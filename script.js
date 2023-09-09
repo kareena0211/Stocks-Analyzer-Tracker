@@ -35,8 +35,6 @@ function calculateProfitAndLoss(initial, quantity, current) {
     showOutput(`The Profit is ${profit} and the Profit Percentage is ${pp}`, "green");
 
 
-
-
     const count = 200,
       defaults = {
         origin: { y: 0.7 },
